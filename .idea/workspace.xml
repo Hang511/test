@@ -30,7 +30,7 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.language.Kotlin.scripting" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -56,6 +56,8 @@
       <updated>1605281896169</updated>
       <workItem from="1605281899729" duration="948000" />
       <workItem from="1605353415880" duration="1735000" />
+      <workItem from="1605359816059" duration="1062000" />
+      <workItem from="1605361359972" duration="285000" />
     </task>
     <servers />
   </component>
